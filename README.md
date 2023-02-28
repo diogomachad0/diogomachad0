@@ -1,4 +1,3 @@
-<div class"col-md-6">
 ###  Olá, eu me chamo Diogo!
 
 - 📫 Como me achar: diogomachado0801@rede.ulbra.br
@@ -22,8 +21,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 </div>
-</div>
-<div class="col-md-6">
+
+
 <br />
 <br />
 <h2 align="center"> GitHub Stats</h2>
@@ -33,4 +32,3 @@
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diogomachad0&show_icons=true&theme=gotham" alt="Diogo" />
 <br />
 <br />
-  </div>
