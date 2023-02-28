@@ -19,5 +19,5 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
- <img align="left" alt="C" width="26px" src="![image](https://user-images.githubusercontent.com/101813097/221953083-41f0bf54-86ce-4ec6-bf7b-809516ab0dea.png)" />
+ <img align="left" alt="C" width="26px" src="![image](https://user-images.githubusercontent.com/101813097/221953272-e98d7145-e6b1-4954-ba1e-d2dce7b5327a.png)" />
 </div>
