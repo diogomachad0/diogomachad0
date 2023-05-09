@@ -17,6 +17,7 @@
 
 
 <br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diogomachad0&label=Profile%20views&color=0e75b6&style=flat" alt="diogo" /> </p>
 <br />
 <h2 align="center"> GitHub Stats</h2>
 <br />
