@@ -6,9 +6,6 @@
 - 🤔 Eu estou procurando foco nos estudos e aprender cada vez mais!
 - ⚡ Curiosidade: A procura de uma oportunidade na área.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diogomachad0&label=Profile%20views&color=0e75b6&style=flat" alt="diogo" /> </p>
-
-
 ### Linguagens e ferramentas:
 <div>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
