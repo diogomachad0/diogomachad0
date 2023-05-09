@@ -6,6 +6,7 @@
 - 🤔 Eu estou procurando foco nos estudos e aprender cada vez mais!
 - ⚡ Curiosidade: A procura de uma oportunidade na área.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diogomachad0&label=Profile%20views&color=0e75b6&style=flat" alt="diogo" /> </p>
 
 
 ### Linguagens e ferramentas:
