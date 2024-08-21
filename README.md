@@ -3,7 +3,7 @@
 - 📫 Como me achar: diogomachado0801@rede.ulbra.br
 - 🔭 Estou em busca de oportunidade...
 - 🌱 Atualmente eu estudando Análise e Desenvolvimento de Sistemas!
-- 🤔 Eu estou procurando foco nos estudos e aprender cada vez mais!
+- 🤔 Eu estou focado nos estudos e a aprender cada vez mais!
 - ⚡ Curiosidade: A procura de uma oportunidade na área.
 
 ### Linguagens e ferramentas:
