@@ -12,7 +12,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Flutter" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F14068%2Fflutter&psig=AOvVaw2_PkEgSmc1HmGlvm5CN30w&ust=1718365706050000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjDi57B2IYDFQAAAAAdAAAAABAE" />
+<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
  <img align="left" alt="Dart" width="26px" src="https://camo.githubusercontent.com/07d482580718a86d482cfd8278bf72799a2235452a5a5afb0998d2cadf37b345/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646172742f646172742d6f726967696e616c2e737667" />
 </div>
 
