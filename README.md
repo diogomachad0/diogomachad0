@@ -8,6 +8,8 @@
 ### Linguagens e ferramentas:
 <div>
   <img align="center" alt="VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+
+  <img align="center" alt="AndroidStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />  
@@ -17,6 +19,8 @@
   <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  
 
   
 <br>
