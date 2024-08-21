@@ -4,7 +4,6 @@
 - 🔭 Estou em busca de oportunidade...
 - 🌱 Atualmente eu estudando Análise e Desenvolvimento de Sistemas!
 - 🤔 Eu estou focado nos estudos e a aprender cada vez mais!
-- ⚡ Curiosidade: A procura de uma oportunidade na área.
 
 ### Linguagens e ferramentas:
 <div>
