@@ -1,7 +1,6 @@
 ###  Olá, eu me chamo Diogo!!!
 
 - 📫 Como me achar: diogomachado0801@rede.ulbra.br
-- 🔭 Estou em busca de oportunidade...
 - 🌱 Atualmente eu estudando Análise e Desenvolvimento de Sistemas!
 - 🤔 Eu estou focado nos estudos e a aprender cada vez mais!
 
