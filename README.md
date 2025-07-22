@@ -10,7 +10,6 @@
 
 </div>
 
----
 
 ## 🧑‍💻 Sobre Mim
 
@@ -43,7 +42,6 @@
   </table>
 </div>
 
----
 
 ## 🛠️ **Arsenal Tecnológico**
 
@@ -68,7 +66,6 @@
 
 </div>
 
----
 
 ## 📊 **Estatísticas GitHub**
 
