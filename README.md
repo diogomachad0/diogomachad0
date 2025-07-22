@@ -1,57 +1,79 @@
-<h1 align="center">👋 Olá, eu sou o Diogo!</h1>
-
-<p align="center">
-  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
-  💻 Desenvolvedor Fullstack!<br>
-  🚀 Em constante evolução, sempre aprendendo e buscando inovação...
-</p>
-
----
-
-## 🚀 Tecnologias e Ferramentas
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
+  
+# 👋 Olá! Eu me chamo **Diogo Machado** 
+### `Desenvolvedor Fullstack`
+### `Formação em Análise e Desenvolvimento de Sistemas`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Fullstack+em+constante+evolução;Movido+por+Tecnologia+e+Inovação;Aprendizado+contínuo+é+meu+combustível;Do+conceito+ao+código:+transformando+ideias+em+realidade" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🧑‍💻 Sobre Mim
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=diogomachad0&show_icons=true&theme=radical&count_private=true&hide_border=false" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogomachad0&layout=compact&theme=radical&hide_border=false" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><b>👨‍🎓 Formação</b></td>
+      <td>Análise e Desenvolvimento de Sistemas</td>
+    </tr>
+    <tr>
+      <td><b>📍 Localização</b></td>
+      <td>Brasil</td>
+    </tr>
+    <tr>
+      <td><b>🚀 Foco</b></td>
+      <td>Desenvolvimento Mobile, Backend APIs</td>
+    </tr>
+    <tr>
+      <td><b>🎯 Objetivo</b></td>
+      <td>Criar soluções que impactem a vida das pessoas</td>
+    </tr>
+    <tr>
+      <td><b>🎮 Hobbies</b></td>
+      <td>Coding, Gaming, Estudos</td>
+    </tr>
+    <tr>
+      <td><b>💼 Status</b></td>
+      <td>Dev fullstack | Cervantes Tecnologia</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-
-## 🌐 Vamos nos conectar!
+## 🛠️ **Arsenal Tecnológico**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/diogo-machado-monteiro-3305a4233/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/_dmmachado/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5551996187827" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+
+### **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### **Backend & APIs**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### **Frontend & Web**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diogomachad0&label=Visualizações&color=blue&style=flat" alt="Profile Views"/>
-</p>
+---
+
+## 📊 **Estatísticas GitHub**
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=diogomachad0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+</div>
